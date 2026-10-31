@@ -1,0 +1,6 @@
+{
+  "name": "Flower Shopping - Java & Web Edition",
+  "description": "Online Flower Shopping Application featuring fresh flower catalog, cart, checkout, order tracking, admin dashboard, and full Java/MySQL source code package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
